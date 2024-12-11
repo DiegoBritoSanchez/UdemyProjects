@@ -1,0 +1,7 @@
+Python 3.9.11
+
+Seguir lo indicado en el enlace de recursos llegado al minuto 8.30 sobre lint
+
+#Comandos para iniciar
+pipenv install django django-ckeditor Pillow pylint pylint-django pylint-django
+pipenv run django-admin startproject webpersonal --> crear proyecto
