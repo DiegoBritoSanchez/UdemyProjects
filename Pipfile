@@ -14,3 +14,7 @@ pylint-django = "*"
 
 [requires]
 python_version = "3.9"
+
+#!Scripts personalizados para lanzar con pipenv run *******
+[scripts]
+start = "python webpersonal/manage.py runserver"

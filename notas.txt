@@ -1,5 +1,6 @@
 Python 3.9.11
-
+ pipenv shell --> activa la shell del entorno virtual
+ pipenv run pip list
 Seguir lo indicado en el enlace de recursos llegado al minuto 8.30 sobre lint
 
 #Comandos para iniciar
