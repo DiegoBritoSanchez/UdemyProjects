@@ -17,4 +17,6 @@ python_version = "3.9"
 
 #!Scripts personalizados para lanzar con pipenv run *******
 [scripts]
-start = "python webpersonal/manage.py runserver"
+start = "python manage.py runserver"
+migrations = "python manage.py makemigrations" 
+migrate = "python manage.py migrate" 
